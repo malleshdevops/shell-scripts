@@ -1,0 +1,6 @@
+user data
+example of shell script
+hello devops
+learning devops
+devops team 
+helloworld
